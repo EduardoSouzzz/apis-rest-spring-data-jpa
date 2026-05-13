@@ -17,12 +17,12 @@ Aqui você encontrará projetos com CRUDs, relacionamentos entre entidades, boas
 
 📚 Conteúdos Praticados
 
-✅ Criação de APIs REST
-✅ CRUD completo
-✅ Arquitetura em camadas
-✅ Injeção de Dependência
-✅ Spring Beans
-✅ Relacionamentos JPA:
+Criação de APIs REST
+CRUD completo
+Arquitetura em camadas
+Injeção de dependência
+Spring Beans
+Relacionamentos JPA:
 
 * OneToOne
 * OneToMany
@@ -91,21 +91,21 @@ Este repositório foi criado para:
 
 📖 Conceitos Importantes
 
-## 🔹 Controller
+##  Controller
 Responsável pelos endpoints da API e pelas requisições HTTP.
 
-## 🔹 Service
+##  Service
 Camada de regra de negócio da aplicação.
 
-## 🔹 Repository
+##  Repository
 Responsável pelo acesso aos dados usando JPA.
 
-## 🔹 Entity
+##  Entity
 Representação das tabelas do banco de dados.
 
 
 🧠 Aprendizados
-Durante os projetos foram praticados conceitos como:
+* Durante os projetos foram praticados conceitos como:
 
 * Organização de código
 * Padrão de arquitetura REST
@@ -125,6 +125,7 @@ Durante os projetos foram praticados conceitos como:
 * Microsserviços
 
 👨‍💻 Autor
-Desenvolvido por Eduardo de Ávila
-Estudando Java, Spring Boot e desenvolvimento backend.
+
+* Desenvolvido por Eduardo de Ávila
+* Estudando Java, Spring Boot e desenvolvimento backend.
 
