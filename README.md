@@ -114,7 +114,8 @@ Representação das tabelas do banco de dados.
 ---
 
 🧠 Aprendizados
-* Durante os projetos foram praticados conceitos como:
+
+Durante os projetos foram praticados conceitos como:
 
 * Organização de código
 * Padrão de arquitetura REST
@@ -132,6 +133,8 @@ Representação das tabelas do banco de dados.
 * Testes Unitários
 * Deploy
 * Microsserviços
+
+---
 
 👨‍💻 Autor
 
