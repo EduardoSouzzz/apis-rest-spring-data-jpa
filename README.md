@@ -31,13 +31,13 @@ Relacionamentos JPA:
 * ManyToOne
 * ManyToMany
 
-Validações
-Chaves Primárias Simples
-Chaves Primárias Compostas
-Uso de `@Entity`, `@Table`, `@Id`, `@GeneratedValue`
-Uso de `@Service`, `@Repository`, `@RestController`
-Tratamento de exceções
-Integração com banco de dados
+Validações,
+ Chaves Primárias Simples,
+ Chaves Primárias Compostas,
+ Uso de `@Entity`, `@Table`, `@Id`, `@GeneratedValue`,
+ Uso de `@Service`, `@Repository`, `@RestController`,
+ Tratamento de exceções,
+ Integração com banco de dados
 
 ---
 
