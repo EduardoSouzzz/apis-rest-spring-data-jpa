@@ -15,6 +15,8 @@ Aqui você encontrará projetos com CRUDs, relacionamentos entre entidades, boas
 * Postman
 * STS / IntelliJ IDEA
 
+---
+
 📚 Conteúdos Praticados
 
 Criação de APIs REST
@@ -29,13 +31,15 @@ Relacionamentos JPA:
 * ManyToOne
 * ManyToMany
 
-✅ Validações
-✅ Chaves Primárias Simples
-✅ Chaves Primárias Compostas
-✅ Uso de `@Entity`, `@Table`, `@Id`, `@GeneratedValue`
-✅ Uso de `@Service`, `@Repository`, `@RestController`
-✅ Tratamento de exceções
-✅ Integração com banco de dados
+Validações
+Chaves Primárias Simples
+Chaves Primárias Compostas
+Uso de `@Entity`, `@Table`, `@Id`, `@GeneratedValue`
+Uso de `@Service`, `@Repository`, `@RestController`
+Tratamento de exceções
+Integração com banco de dados
+
+---
 
 📂 Estrutura Base dos Projetos
 
@@ -50,6 +54,8 @@ src/main/java
 ├── config
 └── exception
 ```
+
+---
 
 ⚙️ Configuração do Banco
 
@@ -77,6 +83,7 @@ spring.datasource.password=minhaSenha
 
 spring.jpa.hibernate.ddl-auto=update
 ```
+---
 
 📌 Objetivo do Repositório
 
@@ -88,6 +95,7 @@ Este repositório foi criado para:
 * Criar APIs REST profissionais
 * Construir projetos para portfólio
 
+---
 
 📖 Conceitos Importantes
 
@@ -103,6 +111,7 @@ Responsável pelo acesso aos dados usando JPA.
 ##  Entity
 Representação das tabelas do banco de dados.
 
+---
 
 🧠 Aprendizados
 * Durante os projetos foram praticados conceitos como:
